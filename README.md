@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi there, I'm Salah!
+Data Engineer & AI Enthusiast I specialize in building scalable ETL pipelines, deploying Machine Learning models, and cloud architecture.
 
-<!--
-**salah107/salah107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Current Focus: SnapSell AI
+I am currently building SnapSell AI, a SaaS applying Computer Vision and NLP to the second-hand market.
 
-Here are some ideas to get you started:
+* Architecture: Modern Data Stack (MDS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Orchestration: Apache Airflow & Docker
+
+* Cloud: Google Cloud Platform (BigQuery, Cloud Run)
+
+* Language: Python (FastAPI), SQL
+
+  📊 GitHub Stats
+<!-- Connect with me: LinkedIn -->
